@@ -1,0 +1,6 @@
+C:\Users\nikon\RiderProjects\TOGInvincible\TOGInvincible\obj\Release\TOGInvincible.csprojResolveAssemblyReference.cache
+D:\Steam\steamapps\common\Tales Of Glory\TalesOfGlory_Data\StreamingAssets\Mods\TOGInvincible\script_assembly_desc.json
+D:\Steam\steamapps\common\Tales Of Glory\TalesOfGlory_Data\StreamingAssets\Mods\TOGInvincible\TOGInvincible.dll
+D:\Steam\steamapps\common\Tales Of Glory\TalesOfGlory_Data\StreamingAssets\Mods\TOGInvincible\TOGInvincible.pdb
+C:\Users\nikon\RiderProjects\TOGInvincible\TOGInvincible\obj\Release\TOGInvincible.dll
+C:\Users\nikon\RiderProjects\TOGInvincible\TOGInvincible\obj\Release\TOGInvincible.pdb

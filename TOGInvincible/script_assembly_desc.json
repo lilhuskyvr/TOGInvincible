@@ -1,0 +1,7 @@
+﻿{
+  "Mod_Name": "TOGInvincible",
+  "Author": "lilhusky",
+  "dllName": "TOGInvincible",
+  "className": "TOGInvinciblePatch",
+  "startMethod": "Inject"
+}
